@@ -17,3 +17,4 @@ pcafa.R
 sem.R
 logisticmulti.R
 logisticairline.R
+efa.R
